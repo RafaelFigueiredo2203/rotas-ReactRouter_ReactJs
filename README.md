@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+#Este projeto faz parte de meu aprendizado em meu curso de ReactJs que estou cursando.
+
+#Neste projeto eu aprendi como utilizar o React Routes ou as rotas em ReactJs , para navegação entre diferentes páginas e sessões .
+
+#Veja o projeto rodando aqui :https://rotas.vercel.app/
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
