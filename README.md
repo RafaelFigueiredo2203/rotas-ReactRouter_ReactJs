@@ -1,6 +1,6 @@
 #Este projeto faz parte de meu aprendizado em meu curso de ReactJs que estou cursando.
 
-#Neste projeto eu aprendi como utilizar o React Routes ou as rotas em ReactJs , para navegação entre diferentes páginas e sessões .
+#Neste projeto eu aprendi como utilizar o React Router ou as rotas em ReactJs , para navegação entre diferentes páginas e sessões .
 
 #Veja o projeto rodando aqui :https://rotas.vercel.app/
 
